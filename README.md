@@ -1,1 +1,1 @@
-# ecommerce-vue-component
+# e-commerce
